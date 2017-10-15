@@ -1,11 +1,14 @@
 {
   "name": "angular1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Finance App",
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
     "production": "gulp --production"
+  },
+  "repository": {
+    "private": true
   },
   "author": "Guilherme Altmann",
   "license": "ISC",
@@ -27,6 +30,6 @@
     "gulp-util": "3.0.8",
     "gulp-watch": "4.3.11",
     "gulp-webserver": "0.9.1",
-    "run-sequence": "2.2.0"
+    "run-sequence":"2.2.0"
   }
 }
