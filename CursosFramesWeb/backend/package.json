@@ -11,9 +11,11 @@
   "author": "guilherme altmann",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "express-query-int": "^1.0.1",
+    "jsonwebtoken": "^7.3.0",
     "loadash": "0.0.1",
     "mongoose": "^4.11.1",
     "mongoose-paginate": "^5.0.3",
